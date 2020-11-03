@@ -10,8 +10,12 @@ CLEWs Canada
    :maxdepth: 2
    :caption: Contents:
 
-   pages/testing_new_reference
+   pages/testing
    pages/intro
+   pages/structure
+   pages/references
+   pages/contacts
+
 
 
 Indices and tables

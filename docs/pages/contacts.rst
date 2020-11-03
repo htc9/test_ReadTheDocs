@@ -1,5 +1,7 @@
 ====================================
-Introduction to CLEWs CANADA
+Contacts
 ====================================
 
-Introduction
+Questions: 
+
+E-mail:
