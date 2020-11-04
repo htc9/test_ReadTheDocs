@@ -13,6 +13,7 @@ CLEWs Canada
    pages/testing
    pages/intro
    pages/structure
+   pages/inputs
    pages/references
    pages/contacts
 
