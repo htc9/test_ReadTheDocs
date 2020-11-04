@@ -9,6 +9,7 @@ will enhance understanding of system trade-offs and synergies.
 
 OSeMOSYS
 +++++++++
-This model is developed using OSeMOSYS, an open source modelling system: 
-https://osemosys.readthedocs.io/en/latest/index.html
+This model is developed using OSeMOSYS, an open source modelling system. 
+The OSeMOSYS Read the Docs can be 
+`accessed here <https://osemosys.readthedocs.io/en/latest/index.html>`_
 
